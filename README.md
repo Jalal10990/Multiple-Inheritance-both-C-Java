@@ -1,0 +1,1 @@
+# Multiple-Inheritance-both-C-Java
